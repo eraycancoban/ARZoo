@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5541773291281010707
+  m_GuidHigh: 17654362957791211184
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5387521387394531438
+      m_GuidHigh: 10742428785953542074
+    m_SerializedTextureGuid:
+      m_GuidLow: 17029362848655016041
+      m_GuidHigh: 8336535349235866283
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: Giant Ape
+    m_Texture: {fileID: 2800000, guid: 115100697349ec54abdab034bb52b173, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5081743972902635449
+      m_GuidHigh: 9771872673881959615
+    m_SerializedTextureGuid:
+      m_GuidLow: 18092287208297835075
+      m_GuidHigh: 8844699826840135656
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: Lion
+    m_Texture: {fileID: 2800000, guid: e0efaa43b75bfb14e8e7c39ba1afbe7a, type: 3}
